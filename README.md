@@ -1,4 +1,4 @@
- Hola, I'm The Dz. 👋
+### Hola, I'm The Dz. 👋
 
 - 🔭 I’m currently working on Voice to Text IDE.
 - 🌱 I’m currently learning Natural Language Processing in deep.
@@ -8,4 +8,4 @@
 - 😄 Pronouns: dz
 - ⚡ Fun fact: I'm very interested in Auto ML and ML in Astronomy
 
-< img src = "https://github-readme-stats.vercel.app/api?username=DZ521111&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=134578" >
+<img src="https://github-readme-stats.vercel.app/api?username=DZ521111&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=134578">
