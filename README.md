@@ -1,9 +1,4 @@
-### Hola, I'm The Dz. 👋
-
-<!--
-**DZ521111/DZ521111** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+ Hola, I'm The Dz. 👋
 
 - 🔭 I’m currently working on Voice to Text IDE.
 - 🌱 I’m currently learning Natural Language Processing in deep.
