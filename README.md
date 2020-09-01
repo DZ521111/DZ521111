@@ -9,12 +9,12 @@
 - ⚡ Fun fact: I'm very interested in Auto ML and ML in Astronomy
 
 <h2><b> Skills </b></h2>
-# Machine Learning
-# Deep Learning
-# Data Science
-# Natural Language Processing
-# Basics of Artificial Intellegence
-# Python, R, Julia, C, Java, C#
-# Django, JSP, Servlet, .Net
+* Machine Learning<br>
+* Deep Learning<br>
+* Data Science<br>
+* Natural Language Processing<br>
+* Basics of Artificial Intellegence<br>
+* Python, R, Julia, C, Java, C#<br>
+* Django, JSP, Servlet, .Net<br>
 
 <img src="https://github-readme-stats.vercel.app/api?username=DZ521111&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=134578">
