@@ -63,6 +63,8 @@ Aꜱᴘɪʀɪɴɢ Dᴀᴛᴀ Sᴄɪᴇɴᴛɪꜱᴛ | Mᴀᴄʜɪɴᴇ Lᴇᴀʀ
 </a>
 </br>
 
+**Records** 
+
 <img src="https://github-readme-stats.vercel.app/api?username=DZ521111&&show_icons=true&theme=radical&line_height=27&v=5" alt="Dz's GitHub Stats" />
 
 
