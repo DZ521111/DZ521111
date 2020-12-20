@@ -25,9 +25,9 @@ Aꜱᴘɪʀɪɴɢ Dᴀᴛᴀ Sᴄɪᴇɴᴛɪꜱᴛ | Mᴀᴄʜɪɴᴇ Lᴇᴀʀ
 【P】【y】【t】【h】【o】【n】
 
 ## About ::
-   B.Tech. 3rd year Computer Engineering student. Passionate about Data Science, Machine Learning and open source. Also, have some experience in and Data Analysis. Currently learning new technologies to implement on real world projects. **Love** <h2>SpaceX</h2>
+   B.Tech. 3rd year Computer Engineering student. Passionate about Data Science, Machine Learning and open source. Also, have some experience in and Data Analysis. Currently learning new technologies to implement on real world projects. **Love SpaceX**
    
-<img align="right" height="270px" width="450px" alt="GIF" src="https://media.giphy.com/media/3og0IFrHkIglEOg8Ba/giphy.gif" />
+<img align="right" height="250px" width="400px" alt="GIF" src="https://media.giphy.com/media/3og0IFrHkIglEOg8Ba/giphy.gif" />
 
 ## Technologies🔥:
 - Data Analysis with **Python** and **R**.
