@@ -28,7 +28,7 @@ Aꜱᴘɪʀɪɴɢ Dᴀᴛᴀ Sᴄɪᴇɴᴛɪꜱᴛ | Mᴀᴄʜɪɴᴇ Lᴇᴀʀ
 
 <a href="https://samujjwaal.tech/"><img src="https://github.com/samujjwaal/samujjwaal/raw/master/etc/python.png" align="right" height="200" /></a>
 
-## Technologies :fire🔥🔥:
+## Technologies🔥🔥:
 - Data Analysis with **Python** and **R**.
 - Data Science.
 - Python.
