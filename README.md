@@ -56,12 +56,12 @@ Aꜱᴘɪʀɪɴɢ Dᴀᴛᴀ Sᴄɪᴇɴᴛɪꜱᴛ | Mᴀᴄʜɪɴᴇ Lᴇᴀʀ
 - 👨🏽‍💻 I’m currently working on project named "**Voice to Text IDE**";
 - 💬 Talk to me about if Earth actually is flat, would headlights work at light speed, and everything in between😸😸
 
-
+</br>
 
 <a href="https://github.com/DZ521111">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DZ521111&theme=radical&hide=glsl,python" />
 </a>
-
+</br>
 
 <img src="https://github-readme-stats.vercel.app/api?username=DZ521111&&show_icons=true&theme=radical&line_height=27&v=5" alt="Dz's GitHub Stats" />
 
