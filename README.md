@@ -10,7 +10,10 @@
   <img align="left" alt="Dz's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
 <a href="https://instagram.com/_the__dz">
-  <img align="left" alt="Neel's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+  <img align="left" alt="Dz's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+</a>
+<a href="https://codechef.com/dhruv5211">
+  <img align="left" alt="Dz's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codechef.svg" />
 </a>
 
 <br/>
