@@ -18,14 +18,14 @@
 
 
 
-Aꜱᴘɪʀɪɴɢ Dᴀᴛᴀ Sᴄɪᴇɴᴛɪꜱᴛ | Mᴀᴄʜɪɴᴇ Lᴇᴀʀɴɪɴɢ | Dᴇᴇᴘ Lᴇᴀʀɴɪɴɢ | ML Webapps with Django | Tᴇɴꜱᴏʀғʟᴏᴡ | PyTorch ||
+Aꜱᴘɪʀɪɴɢ Dᴀᴛᴀ Sᴄɪᴇɴᴛɪꜱᴛ | Mᴀᴄʜɪɴᴇ Lᴇᴀʀɴɪɴɢ | Dᴇᴇᴘ Lᴇᴀʀɴɪɴɢ | ML Webapps with Django | Tᴇɴꜱᴏʀғʟᴏᴡ | PyTorch || </br>
 【P】【y】【t】【h】【o】【n】
 
 ## About ::
    B.Tech. 3rd year Computer Engineering student. Passionate about Data Science, Machine Learning and open source. Also, have some experience in and Data Analysis. Currently learning new technologies to implement on real world projects. **Love** SpaceX.
 
-<img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/pronouns/hehim.svg" >
-   
+<img align="right" height="270px" width="450px" alt="GIF" src="https://media.giphy.com/media/paVD7uL8uz6us/giphy.gif" />
+
 ## Technologies :fire🔥🔥:
 - Data Analysis with **Python** and **R**.
 - Data Science.
