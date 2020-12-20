@@ -12,7 +12,7 @@
 <a href="https://instagram.com/_the__dz">
   <img align="left" alt="Dz's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
-<a href="https://codechef.com/dhruv5211">
+<a href="https://www.codechef.com/users/dhruv5211">
   <img align="left" alt="Dz's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codechef.svg" />
 </a>
 
