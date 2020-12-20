@@ -1,4 +1,4 @@
-# <a href="https://www.linkedin.com/in/dhruv-kakadiya-8a3202191/">Dhruv Kakadiya (the_dz)</a> :smiley😇:
+# <a href="https://www.linkedin.com/in/dhruv-kakadiya-8a3202191/">Dhruv Kakadiya (the_dz)</a> :Hello😇:
 
 <a href="https://twitter.com/DhruvKakadiya7">
   <img align="left" alt="Dz's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
@@ -24,7 +24,9 @@ Aꜱᴘɪʀɪɴɢ Dᴀᴛᴀ Sᴄɪᴇɴᴛɪꜱᴛ | Mᴀᴄʜɪɴᴇ Lᴇᴀʀ
 ## About ::
    B.Tech. 3rd year Computer Engineering student. Passionate about Data Science, Machine Learning and open source. Also, have some experience in and Data Analysis. Currently learning new technologies to implement on real world projects. **Love** SpaceX.
 
-<img align="right" height="270px" width="450px" alt="GIF" src="https://gfycat.com/blissfulimpishguineafowl" />
+<img align="right" height="270px" width="450px" alt="GIF" src="https://media.giphy.com/media/3og0IFrHkIglEOg8Ba/giphy.gif" />
+
+<a href="https://samujjwaal.tech/"><img src="https://github.com/samujjwaal/samujjwaal/raw/master/etc/python.png" align="right" height="200" /></a>
 
 ## Technologies :fire🔥🔥:
 - Data Analysis with **Python** and **R**.
@@ -35,7 +37,6 @@ Aꜱᴘɪʀɪɴɢ Dᴀᴛᴀ Sᴄɪᴇɴᴛɪꜱᴛ | Mᴀᴄʜɪɴᴇ Lᴇᴀʀ
 - Artificial Intelligence.
 - Self Driving Cars.
 
-<a href="https://samujjwaal.tech/"><img src="https://github.com/samujjwaal/samujjwaal/raw/master/etc/python.png" align="right" height="200" /></a>
 
 **Languages and Tools:**  
 
@@ -46,6 +47,7 @@ Aꜱᴘɪʀɪɴɢ Dᴀᴛᴀ Sᴄɪᴇɴᴛɪꜱᴛ | Mᴀᴄʜɪɴᴇ Lᴇᴀʀ
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>&nbsp;&nbsp;&nbsp;
 <code><img height="50" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/kaggle.svg"></code>&nbsp;&nbsp;&nbsp;
 <code><img height="50" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/heroku.svg"></code>&nbsp;&nbsp;&nbsp;
+
 
 
 ## Talking about personal stuff::
