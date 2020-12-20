@@ -1,20 +1,65 @@
-### Hola, I'm The Dz. 👋
+# <a href="https://www.linkedin.com/in/dhruv-kakadiya-8a3202191/">Dhruv Kakadiya (the_dz)</a> :smiley😇:
 
-- 🔭 I’m currently working on Voice to Text IDE.
-- 🌱 I’m currently learning Natural Language Processing in deep.
-- 🤔 I’m looking for help with any NLP guy.
-- 💬 Ask me about Astronomy and Machine Learning.
-- 📫 How to reach me: https://www.linkedin.com/in/dhruv-kakadiya-8a3202191/ 
-- 😄 Pronouns: dz
-- ⚡ Fun fact: I'm very interested in Auto ML and ML in Astronomy
+<a href="https://twitter.com/DhruvKakadiya7">
+  <img align="left" alt="Dz's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+</a>
+<a href="https://www.linkedin.com/in/dhruv-kakadiya-8a3202191/">
+  <img align="left" alt="Dz's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a href="https://github.com/DZ521111">
+  <img align="left" alt="Dz's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+</a>
+<a href="https://instagram.com/_the__dz">
+  <img align="left" alt="Neel's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+</a>
 
-<h2><b> Skills </b></h2>
-* Machine Learning<br>
-* Deep Learning<br>
-* Data Science<br>
-* Natural Language Processing<br>
-* Basics of Artificial Intellegence<br>
-* Python, R, Julia, C, Java, C#<br>
-* Django, JSP, Servlet, .Net<br>
+<br/>
+<br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=DZ521111&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=134578">
+
+
+Aꜱᴘɪʀɪɴɢ Dᴀᴛᴀ Sᴄɪᴇɴᴛɪꜱᴛ | Mᴀᴄʜɪɴᴇ Lᴇᴀʀɴɪɴɢ | Dᴇᴇᴘ Lᴇᴀʀɴɪɴɢ | ML Webapps with Django | Tᴇɴꜱᴏʀғʟᴏᴡ | PyTorch ||
+【P】【y】【t】【h】【o】【n】
+
+## About ::
+   B.Tech. 3rd year Computer Engineering student. Passionate about Data Science, Machine Learning and open source. Also, have some experience in and Data Analysis. Currently learning new technologies to implement on real world projects. **Love** SpaceX.
+
+   
+## Technologies :fire🔥🔥:
+- Data Analysis with **Python** and **R**.
+- Data Science.
+- Python.
+- Machine Learning.
+- Deep Learning.
+- Artificial Intelligence.
+- Self Driving Cars.
+
+**Languages and Tools:**  
+
+<code><img height="50" src="https://pytorch.org/assets/images/pytorch-logo.png"></code>&nbsp&nbsp
+<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png"></code>&nbsp&nbsp
+<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>&nbsp&nbsp
+<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>&nbsp&nbsp
+<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>&nbsp&nbsp
+<code><img height="50" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/kaggle.svg"></code>&nbsp&nbsp
+<code><img height="50" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/heroku.svg"></code>&nbsp&nbsp
+
+
+## Talking about personal stuff ::
+- My interests are with Natural Language Processing/Understanding, Computer vision, Deep Learning, etc..;
+- While Coding, Listening Music and developing useful code.⭐️
+- 👨🏽‍💻 I’m currently working on project named "**Voice to Text IDE**";
+- 💬 Talk to me about if Earth actually is flat, would headlights work at light speed, and everything in between😸😸
+
+
+
+<a href="https://github.com/DZ521111">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DZ521111&theme=radical&hide=glsl,python" />
+</a>
+
+
+<img src="https://github-readme-stats.vercel.app/api?username=DZ521111&&show_icons=true&theme=radical&line_height=27&v=5" alt="Dz's GitHub Stats" />
+
+
+⭐️ From [Dhruv Kakadiya](https://github.com/DZ521111)
+
