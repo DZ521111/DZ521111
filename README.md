@@ -37,7 +37,7 @@ Aꜱᴘɪʀɪɴɢ Dᴀᴛᴀ Sᴄɪᴇɴᴛɪꜱᴛ | Mᴀᴄʜɪɴᴇ Lᴇᴀʀ
 - Deep Learning.
 - Artificial Intelligence.
 - Self Driving Cars.
-</br>
+- Astronomy space and time
 
 ## Languages and Tools:  
 
