@@ -25,7 +25,9 @@
 
 
 Aꜱᴘɪʀɪɴɢ Dᴀᴛᴀ Sᴄɪᴇɴᴛɪꜱᴛ | Mᴀᴄʜɪɴᴇ Lᴇᴀʀɴɪɴɢ | Dᴇᴇᴘ Lᴇᴀʀɴɪɴɢ | ML Webapps with Django | Tᴇɴꜱᴏʀғʟᴏᴡ | PyTorch || </br>
-【P】【y】【t】【h】【o】【n】
+【P】【Y】【T】【H】【O】【N】
+【J】【U】【L】【I】【A】
+【R】
 
 ## About ::
    B.Tech. 3rd year Computer Engineering student. Passionate about Data Science, Machine Learning and open source. Also, have some experience in and Data Analysis. Currently learning new technologies to implement on real world projects. **Love SpaceX**
