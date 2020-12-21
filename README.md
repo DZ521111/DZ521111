@@ -4,16 +4,16 @@
   <img align="left" alt="Dz's Twitter" width="22px" src="https://seeklogo.com/images/T/twitter-logo-A84FE9258E-seeklogo.com.png" />
 </a>
 <a href="https://www.linkedin.com/in/dhruv-kakadiya-8a3202191/">
-  <img align="left" alt="Dz's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img align="left" alt="Dz's Linkdein" width="22px" src="https://cdns.iconmonstr.com/wp-content/assets/preview/2012/240/iconmonstr-linkedin-3.png" />
 </a>
 <a href="https://github.com/DZ521111">
-  <img align="left" alt="Dz's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+  <img align="left" alt="Dz's Github" width="22px" src="https://cdns.iconmonstr.com/wp-content/assets/preview/2012/240/iconmonstr-github-1.png" />
 </a>
 <a href="https://instagram.com/_the__dz">
-  <img align="left" alt="Dz's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+  <img align="left" alt="Dz's Instagram" width="22px" src="https://cdn.worldvectorlogo.com/logos/instagram-2-1.svg" />
 </a>
 <a href="https://www.codechef.com/users/dhruv5211">
-  <img align="left" alt="Dz's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codechef.svg" />
+  <img align="left" alt="Dz's Instagram" width="22px" src="https://i.pinimg.com/originals/c5/d9/fc/c5d9fc1e18bcf039f464c2ab6cfb3eb6.jpg" />
 </a>
 
 <br/>
