@@ -25,8 +25,8 @@
 
 
 Aꜱᴘɪʀɪɴɢ Dᴀᴛᴀ Sᴄɪᴇɴᴛɪꜱᴛ | Mᴀᴄʜɪɴᴇ Lᴇᴀʀɴɪɴɢ | Dᴇᴇᴘ Lᴇᴀʀɴɪɴɢ | ML Webapps with Django | Tᴇɴꜱᴏʀғʟᴏᴡ | PyTorch || </br>
-【P】【Y】【T】【H】【O】【N】
-【J】【U】【L】【I】【A】
+【P】【Y】【T】【H】【O】【N】</br>
+【J】【U】【L】【I】【A】</br>
 【R】
 
 ## About ::
