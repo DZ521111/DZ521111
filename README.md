@@ -48,6 +48,7 @@ Aꜱᴘɪʀɪɴɢ Dᴀᴛᴀ Sᴄɪᴇɴᴛɪꜱᴛ | Mᴀᴄʜɪɴᴇ Lᴇᴀʀ
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <code><img height="50" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/kaggle.svg"></code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <code><img height="50" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/heroku.svg"></code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<code><img height="50" src="https://cdn.onlinewebfonts.com/svg/img_535483.png"></code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
 
