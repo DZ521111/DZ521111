@@ -15,6 +15,9 @@
 <a href="https://www.codechef.com/users/dhruv5211">
   <img align="left" alt="Dz's Instagram" width="22px" src="https://i.pinimg.com/originals/c5/d9/fc/c5d9fc1e18bcf039f464c2ab6cfb3eb6.jpg" />
 </a>
+<a href="https://www.hackerrank.com/dhruvkakadiya3">
+  <img align="left" alt="Dz's Instagram" width="22px" src="https://1.bp.blogspot.com/-ULT9oDhqr24/XJYCrttOEpI/AAAAAAAAJYE/inXHXlzblBI3SbcGpiUj4TMNj-E8uPlaQCK4BGAYYCw/s1600/logo%2Bhackerrank%2Bicon.png" />
+</a>
 
 <br/>
 <br/>
