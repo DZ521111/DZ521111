@@ -1,7 +1,7 @@
 # <a href="https://www.linkedin.com/in/dhruv-kakadiya-8a3202191/">Dhruv Kakadiya (the_dz)</a> :Hello😇:
 
 <a href="https://twitter.com/DhruvKakadiya7">
-  <img align="left" alt="Dz's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+  <img align="left" alt="Dz's Twitter" width="22px" color = "white" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
 <a href="https://www.linkedin.com/in/dhruv-kakadiya-8a3202191/">
   <img align="left" alt="Dz's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
