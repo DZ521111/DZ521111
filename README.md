@@ -65,9 +65,7 @@ Aꜱᴘɪʀɪɴɢ Dᴀᴛᴀ Sᴄɪᴇɴᴛɪꜱᴛ | Mᴀᴄʜɪɴᴇ Lᴇᴀʀ
 
 </br>
 
-<a href="https://github.com/DZ521111">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DZ521111&theme=radical&hide=glsl,python" />
-</a>
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=DZ521111&langs_count=7&theme=tokyonight)]()
 </br>
 
 **Records** 
