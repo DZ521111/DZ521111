@@ -52,7 +52,7 @@ Aꜱᴘɪʀɪɴɢ Dᴀᴛᴀ Sᴄɪᴇɴᴛɪꜱᴛ | Mᴀᴄʜɪɴᴇ Lᴇᴀʀ
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <code><img height="50" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/kaggle.svg"></code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<code><img height="50" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/heroku.svg"></code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<code><img height="50" src="https://ih1.redbubble.net/image.535937285.2015/st,small,845x845-pad,1000x1000,f8f8f8.jpg"></code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <code><img height="50" src="https://www.flaticon.com/svg/static/icons/svg/2103/2103832.svg"></code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <code><img height="50" src="https://cdn.iconscout.com/icon/free/png-256/julia-2752146-2284963.png"></code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
