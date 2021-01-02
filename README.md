@@ -54,6 +54,7 @@ Aꜱᴘɪʀɪɴɢ Dᴀᴛᴀ Sᴄɪᴇɴᴛɪꜱᴛ | Mᴀᴄʜɪɴᴇ Lᴇᴀʀ
 <code><img height="50" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/kaggle.svg"></code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <code><img height="50" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/heroku.svg"></code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <code><img height="50" src="https://cdn.onlinewebfonts.com/svg/img_535483.png"></code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<code><img height="50" src="https://cdn.iconscout.com/icon/free/png-256/julia-2752146-2284963.png"></code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
 
