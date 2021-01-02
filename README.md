@@ -55,6 +55,7 @@ Aꜱᴘɪʀɪɴɢ Dᴀᴛᴀ Sᴄɪᴇɴᴛɪꜱᴛ | Mᴀᴄʜɪɴᴇ Lᴇᴀʀ
 <code><img height="50" src="https://ih1.redbubble.net/image.535937285.2015/st,small,845x845-pad,1000x1000,f8f8f8.jpg"></code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <code><img height="50" src="https://www.flaticon.com/svg/static/icons/svg/2103/2103832.svg"></code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <code><img height="50" src="https://cdn.iconscout.com/icon/free/png-256/julia-2752146-2284963.png"></code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<code><img height="50" src="https://i.pinimg.com/originals/6b/95/32/6b9532f07285be12d49cdcd1382db7da.jpg"></code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
 
