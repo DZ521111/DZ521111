@@ -22,17 +22,21 @@
 <br/>
 <br/>
 
-
+>>>
 
 Aꜱᴘɪʀɪɴɢ Dᴀᴛᴀ Sᴄɪᴇɴᴛɪꜱᴛ | Mᴀᴄʜɪɴᴇ Lᴇᴀʀɴɪɴɢ | Dᴇᴇᴘ Lᴇᴀʀɴɪɴɢ | ML Webapps with Django | Tᴇɴꜱᴏʀғʟᴏᴡ | PyTorch || </br>
 【P】【Y】【T】【H】【O】【N】</br>
 【J】【U】【L】【I】【A】</br>
 【R】
 
-## About ::
+>>>
+
+## About :
    B.Tech. 3rd year Computer Engineering student. Passionate about Data Science, Machine Learning and open source. Also, have some experience in and Data Analysis. Currently learning new technologies to implement on real world projects. **Love SpaceX**
    
 <img align="right" height="220px" width="350px" alt="GIF" src="https://media.giphy.com/media/3og0IFrHkIglEOg8Ba/giphy.gif" />
+
+>>>
 
 ## Technologies🔥:
 - Data Analysis with **Python** and **R**.
@@ -57,6 +61,7 @@ Aꜱᴘɪʀɪɴɢ Dᴀᴛᴀ Sᴄɪᴇɴᴛɪꜱᴛ | Mᴀᴄʜɪɴᴇ Lᴇᴀʀ
 <code><img height="50" src="https://cdn.iconscout.com/icon/free/png-256/julia-2752146-2284963.png"></code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <code><img height="50" src="https://i.pinimg.com/originals/6b/95/32/6b9532f07285be12d49cdcd1382db7da.jpg"></code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+>>>
 
 
 ## Talking about personal stuff::
