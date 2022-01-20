@@ -23,9 +23,6 @@
 
 Aꜱᴘɪʀɪɴɢ Dᴀᴛᴀ Sᴄɪᴇɴᴛɪꜱᴛ | Mᴀᴄʜɪɴᴇ Lᴇᴀʀɴɪɴɢ | Dᴇᴇᴘ Lᴇᴀʀɴɪɴɢ | ML Webapps with Django | Tᴇɴꜱᴏʀғʟᴏᴡ | PyTorch || </br>
 【P】【Y】【T】【H】【O】【N】</br>
-【J】【U】【L】【I】【A】</br>
-【R】
-
 >>>
 
 ## About :
@@ -36,13 +33,12 @@ Aꜱᴘɪʀɪɴɢ Dᴀᴛᴀ Sᴄɪᴇɴᴛɪꜱᴛ | Mᴀᴄʜɪɴᴇ Lᴇᴀʀ
 >>>
 
 ## Technologies🔥:
-- Data Analysis with **Python** and **R**.
+- Data Analysis with **Python**.
 - Data Science.
 - Python.
 - Machine Learning.
 - Deep Learning.
 - Artificial Intelligence.
-- Self Driving Cars.
 - Astronomy space and time
 
 ## Languages and Tools:  
