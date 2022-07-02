@@ -4,13 +4,10 @@
   <img align="left" alt="Dz's Twitter" width="22px" src="https://seeklogo.com/images/T/twitter-logo-A84FE9258E-seeklogo.com.png" />
 </a>
 <a href="https://www.linkedin.com/in/dhruv-kakadiya-8a3202191/">
-  <img align="left" alt="Dz's Linkdein" width="22px" src="https://cdns.iconmonstr.com/wp-content/assets/preview/2012/240/iconmonstr-linkedin-3.png" />
+  <img align="left" alt="Dz's Linkdein" width="22px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />
 </a>
-<a href="https://github.com/DZ521111">
-  <img align="left" alt="Dz's Github" width="22px" src="https://cdns.iconmonstr.com/wp-content/assets/preview/2012/240/iconmonstr-github-1.png" />
-</a>
-<a href="https://instagram.com/_the__dz">
-  <img align="left" alt="Dz's Instagram" width="22px" src="https://cdn.worldvectorlogo.com/logos/instagram-2-1.svg" />
+<a href="https://leetcode.com/DZ521111/">
+  <img align="left" alt="Dz's Linkdein" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" />
 </a>
 <a href="https://www.codechef.com/users/dhruv5211">
   <img align="left" alt="Dz's Instagram" width="22px" src="https://i.pinimg.com/originals/c5/d9/fc/c5d9fc1e18bcf039f464c2ab6cfb3eb6.jpg" />
@@ -26,7 +23,7 @@ Aꜱᴘɪʀɪɴɢ Dᴀᴛᴀ Sᴄɪᴇɴᴛɪꜱᴛ | Mᴀᴄʜɪɴᴇ Lᴇᴀʀ
 >>>
 
 ## About :
-   B.Tech. 3rd year Computer Engineering student. Passionate about Data Science, Machine Learning and open source. Also, have some experience in and Data Analysis. Currently learning new technologies to implement on real world projects. **Love SpaceX**
+   B.Tech. Computer Engineer. Passionate about Astronomy, Data Science, Machine Learning and open source. Also, have some experience in and Data Analysis. Currently learning new technologies to implement on real world projects.
    
 <img align="right" height="220px" width="350px" alt="GIF" src="https://media.giphy.com/media/3og0IFrHkIglEOg8Ba/giphy.gif" />
 
@@ -43,15 +40,11 @@ Aꜱᴘɪʀɪɴɢ Dᴀᴛᴀ Sᴄɪᴇɴᴛɪꜱᴛ | Mᴀᴄʜɪɴᴇ Lᴇᴀʀ
 
 ## Languages and Tools:  
 
-<code><img height="50" src="https://pytorch.org/assets/images/pytorch-logo.png"></code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png"></code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<code><img height="50" src="https://www.hdatasystems.com/assets/images/data-science.svg"></code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <code><img height="50" src="https://ih1.redbubble.net/image.535937285.2015/st,small,845x845-pad,1000x1000,f8f8f8.jpg"></code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<code><img height="50" src="https://www.flaticon.com/svg/static/icons/svg/2103/2103832.svg"></code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<code><img height="50" src="https://cdn.iconscout.com/icon/free/png-256/julia-2752146-2284963.png"></code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <code><img height="50" src="https://i.pinimg.com/originals/6b/95/32/6b9532f07285be12d49cdcd1382db7da.jpg"></code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 >>>
@@ -59,8 +52,7 @@ Aꜱᴘɪʀɪɴɢ Dᴀᴛᴀ Sᴄɪᴇɴᴛɪꜱᴛ | Mᴀᴄʜɪɴᴇ Lᴇᴀʀ
 
 ## Talking about personal stuff::
 - My interests are with Natural Language Processing/Understanding, Computer vision, Deep Learning, etc..;
-- While Coding, Listening Music and developing useful code.⭐️
-- 👨🏽‍💻 I’m currently working on project named "**Voice to Text IDE**";
+- 👨🏽‍💻 Preparation of GATE CS'23**";
 - 💬 Talk to me about if Earth actually is flat, would headlights work at light speed, and everything in between😸😸
 
 </br>
