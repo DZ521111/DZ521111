@@ -55,7 +55,7 @@ Aꜱᴘɪʀɪɴɢ Dᴀᴛᴀ Sᴄɪᴇɴᴛɪꜱᴛ | Mᴀᴄʜɪɴᴇ Lᴇᴀʀ
 
 </br>
 
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=DZ521111&langs_count=7&theme=tokyonight)]()
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DZ521111&langs_count=7&theme=tokyonight" alt="GitHub Language Stats"/> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=DZ521111&&show_icons=true&theme=radical&line_height=27&v=5" alt="GitHub Stats"/> </p>
 </br>
 
 **Records** 
