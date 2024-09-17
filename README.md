@@ -38,13 +38,7 @@ Aꜱᴘɪʀɪɴɢ Dᴀᴛᴀ Sᴄɪᴇɴᴛɪꜱᴛ | Mᴀᴄʜɪɴᴇ Lᴇᴀʀ
 
 ## Languages and Tools:  
 
-<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png"></code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<code><img height="50" src="https://ih1.redbubble.net/image.535937285.2015/st,small,845x845-pad,1000x1000,f8f8f8.jpg"></code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<code><img height="50" src="https://i.pinimg.com/originals/6b/95/32/6b9532f07285be12d49cdcd1382db7da.jpg"></code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
+<p align="center"> <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png"></code> <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code> <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code> <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code> <code><img height="50" src="https://ih1.redbubble.net/image.535937285.2015/st,small,845x845-pad,1000x1000,f8f8f8.jpg"></code> <code><img height="50" src="https://i.pinimg.com/originals/6b/95/32/6b9532f07285be12d49cdcd1382db7da.jpg"></code> </p>
 >>>
 
 
