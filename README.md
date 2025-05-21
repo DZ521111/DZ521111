@@ -1,80 +1,116 @@
-# [Dhruv Kakadiya (the_dz)](https://www.linkedin.com/in/dhruv-kakadiya-8a3202191/) 😊
-
-### Hello there! 👋
-
+<h1 align="center">Hey there, I'm Dhruvkumar Kakadiya 👨‍💻</h1>
 <p align="center">
-  <a href="https://twitter.com/DhruvKakadiya7">
-    <img alt="Dz's Twitter" width="30px" src="https://seeklogo.com/images/T/twitter-logo-A84FE9258E-seeklogo.com.png" />
+  <a href="https://www.linkedin.com/in/dhruv-kakadiya-8a3202191/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/dhruv-kakadiya-8a3202191/">
-    <img alt="Dz's LinkedIn" width="30px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />
+  <a href="mailto:d.kakadiya@iitg.ac.in">
+    <img src="https://img.shields.io/badge/-Email-red?logo=gmail&logoColor=white" />
   </a>
-  <a href="https://leetcode.com/DZ521111/">
-    <img alt="Dz's LeetCode" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" />
+  <a href="https://leetcode.com/DZ3108/">
+    <img src="https://img.shields.io/badge/LeetCode-2006-yellow?logo=leetcode&logoColor=white" />
+  </a>
+  <a href="https://codeforces.com/profile/The_Dz">
+    <img src="https://img.shields.io/badge/Codeforces-1441-blue?logo=codeforces&logoColor=white" />
   </a>
   <a href="https://www.codechef.com/users/dhruv5211">
-    <img alt="Dz's CodeChef" width="30px" src="https://i.pinimg.com/originals/c5/d9/fc/c5d9fc1e18bcf039f464c2ab6cfb3eb6.jpg" />
+    <img src="https://img.shields.io/badge/CodeChef-1769-orange?logo=codechef&logoColor=white" />
   </a>
 </p>
 
 ---
 
-## 🚀 About Me
-I am a **B.Tech. Computer Engineer** passionate about **Astronomy**, **Data Science**, **Machine Learning**, and **Open Source**. I have experience in **Data Analysis** and am continuously learning new technologies to implement real-world projects.
+### 🚀 About Me
+
+🎓 M.Tech in Computer Science @ **IIT Guwahati**  
+🔬 Ex-Research Intern @ **ISRO (SAC Ahmedabad)**  
+🧠 Passionate about **AI**, **Back Transliteration**, and **Remote Sensing**  
+📈 Competitive Programmer | GATE 2023 AIR **186 (99.75%ile)**
 
 ---
 
-## 🔥 Technologies
-- **Data Analysis** with Python
-- **Data Science**
-- **Machine Learning**
-- **Deep Learning**
-- **Artificial Intelligence**
-- **Astronomy** (Space and Time)
+### 💡 My Interests
+- NLP & Transliteration 🚀
+- Deep Learning & Computer Vision 🧠
+- Image Stitching, Panoramas & Geospatial AI 🌍
+- Optimization with HLS ⚙️
 
-## 🛠️ Languages and Tools
+---
+
+### 🔥 Competitive Programming Stats
+
+| Platform     | Handle                        | Rating (Max) | Questions Solved |
+|--------------|-------------------------------|---------------|-------------------|
+| LeetCode     | [DZ3108](https://leetcode.com/DZ3108/)      | 🟨 2006 (2057) | 840+              |
+| Codeforces   | [The_Dz](https://codeforces.com/profile/The_Dz) | 🔵 1441 (1518) | 220+              |
+| CodeChef     | [dhruv5211](https://www.codechef.com/users/dhruv5211) | 🟠 1769 (1827) | 260+              |
+
+---
+
+### 🧠 Key Projects
+
+- 📝 **[IndiBackTranslit (Thesis)](https://github.com/DZ521111)**  
+  Back transliteration of Romanized Indian languages using transformer & multilingual LLMs.
+
+- 🧠 **[HLS Brain Tumor Optimization](https://github.com/DZ521111/HLS-Vivado-Brain-Tumor-Detection-Optimization)**  
+  Optimized tumor detection model in Vivado; reduced latency ~3.4M → 1.24M cycles.
+
+- 🌄 **[Panorama Stitching](https://github.com/DZ521111/Panorama-Homography-Warping)**  
+  Image stitching with ORB + RANSAC + warping for enhanced panorama generation.
+
+- 🐦 **[Zero-Shot Image Classification](https://github.com/DZ521111/VisualTransformer-ZeroShot-Classification)**  
+  CLIP + ViT for unseen bird species recognition with 64.3% accuracy.
+
+- 📡 **[Lichen Mapping (ISRO Research)](https://www.sciencedirect.com/science/article/abs/pii/S1873965223000749)**  
+  Satellite-based lichen classification in Antarctica – Published in *Polar Science (Elsevier)*
+
+---
+
+### 🛠️ Tech Stack
+
+#### 🧾 Languages:
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=mysql&logoColor=white)
+
+#### ⚙️ Frameworks & Tools:
+![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
+![VSCode](https://img.shields.io/badge/-VSCode-007ACC?logo=visual-studio-code&logoColor=white)
+![Google Earth Engine](https://img.shields.io/badge/-GEE-34A853?logo=googleearthengine&logoColor=white)
+
+#### 🖥️ OS:
+![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black)
+![Windows](https://img.shields.io/badge/-Windows-0078D6?logo=windows&logoColor=white)
+![macOS](https://img.shields.io/badge/-macOS-000000?logo=apple&logoColor=white)
+
+---
+
+### 📘 Selected Courses
+
+- Machine Learning | NLP | Image Processing  
+- DSA & Algorithms | OS | DBMS | Computer Networks  
+- C-Based VLSI | Data Structures Lab  
+
+---
+
+### 📊 GitHub Stats
+
 <p align="center">
-  <img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" title="Python" />
-  <img height="50" src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" title="C++" />
-  <img height="50" src="https://raw.githubusercontent.com/github/explore/379d49236d826364be968345e0a085d044108cff/topics/visual-studio-code/visual-studio-code.png" title="Visual Studio Code" />
-  <img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png" title="TensorFlow" />
-  <img height="50" src="https://raw.githubusercontent.com/github/explore/01ea2a586e5da744792d0ccfce2f68b861f29301/topics/pytorch/pytorch.png" title="PyTorch" />
-  <img height="50" src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" title="LeetCode" />
-  <img height="50" src="https://sta.codeforces.com/s/59516/images/codeforces-logo-with-telegram.png" title="Codeforces" />
-  <img height="50" src="https://media.geeksforgeeks.org/wp-content/uploads/20210208000010/GeeksforGeeks.png" title="GeeksforGeeks" />
-  <img height="50" src="https://www.svgrepo.com/show/331760/sql-database-generic.svg" title="SQL" />
-  <img height="50" src="https://raw.githubusercontent.com/github/explore/06b34d0bde4cb0ec04d29ec826557c40bc17a67e/topics/git/git.png" title="Git" />
-  <img height="50" src="https://raw.githubusercontent.com/github/explore/603c885d3ef9d1f9da3b29e843d9f64f6e963b68/topics/terminal/terminal.png" title="Terminal" />
+  <img src="https://github-readme-stats.vercel.app/api?username=DZ521111&show_icons=true&theme=tokyonight&count_private=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DZ521111&layout=compact&theme=tokyonight" width="48%" />
 </p>
 
 ---
 
-## 💬 Let's Talk About:
-- **Natural Language Processing (NLP)**
-- **Computer Vision**
-- **Deep Learning**
-- **GATE CS'23 Preparation**
-- Fun topics like "Is the Earth flat?", "Do headlights work at light speed?", and everything in between! 😸😸
+### 🌐 Let's Connect
+
+- 📧 Email: d.kakadiya@iitg.ac.in | dhruvkakadiya3@gmail.com  
+- 🔗 [LinkedIn](https://www.linkedin.com/in/dhruv-kakadiya-8a3202191)  
+- 🧠 [Google Scholar Article (Polar Science)](https://www.sciencedirect.com/science/article/abs/pii/S1873965223000749)
 
 ---
 
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DZ521111&show_icons=true&theme=radical&line_height=27&count_private=true" alt="Dz's GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DZ521111&langs_count=7&theme=tokyonight" alt="Dz's Top Languages" />
-</p>
-
----
-
-## 👀 Profile Visitors
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=DZ521111&color=brightgreen" alt="Profile Views" />
-</p>
-
----
-
-⭐️ **From [Dhruv Kakadiya](https://github.com/DZ521111)**
-
+<p align="center">✨ “Stay curious. Build. Solve. Repeat.” ✨</p>
