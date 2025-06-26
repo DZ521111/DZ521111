@@ -13,10 +13,10 @@
     <img src="https://img.shields.io/badge/LeetCode-2006-yellow?logo=leetcode&logoColor=white" />
   </a>
   <a href="https://codeforces.com/profile/The_Dz">
-    <img src="https://img.shields.io/badge/Codeforces-1523-blue?logo=codeforces&logoColor=white" />
+    <img src="https://img.shields.io/badge/Codeforces-1593-blue?logo=codeforces&logoColor=white" />
   </a>
   <a href="https://www.codechef.com/users/dhruv5211">
-    <img src="https://img.shields.io/badge/CodeChef-1811-orange?logo=codechef&logoColor=white" />
+    <img src="https://img.shields.io/badge/CodeChef-1843-orange?logo=codechef&logoColor=white" />
   </a>
 </p>
 
@@ -44,8 +44,8 @@
 | Platform     | Handle                        | Rating (Max) | Questions Solved |
 |--------------|-------------------------------|---------------|-------------------|
 | LeetCode     | [DZ3108](https://leetcode.com/DZ3108/)      | 🟨 2006 (2057) | 840+              |
-| Codeforces   | [The_Dz](https://codeforces.com/profile/The_Dz) | 🔵 1523 (1523) | 220+              |
-| CodeChef     | [dhruv3108](https://www.codechef.com/users/dhruv3108) | 🟠 1811 (1827) | 260+              |
+| Codeforces   | [The_Dz](https://codeforces.com/profile/The_Dz) | 🔵 1593 (1593) | 220+              |
+| CodeChef     | [dhruv3108](https://www.codechef.com/users/dhruv3108) | 🟠 1843 (1843) | 260+              |
 
 ---
 
